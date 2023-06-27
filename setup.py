@@ -18,7 +18,6 @@ setup(
         'pyusb>=1.2.1',
         'scikit_image>=0.18.3',
         'scipy>=1.10.1',
-        'sensor_msgs>=1.13.1',
         'setuptools>=45.2.0',
         'torch>=1.11.0'
     ],
